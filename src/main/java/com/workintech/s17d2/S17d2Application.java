@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class S17d2Application {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(S17d2Application.class, args);
+
 	}
 
 }
